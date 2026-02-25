@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Paper PDF (copyright — not redistributable)
+*.pdf
+
+# macOS
+.DS_Store
+
+# Claude internal
+.claude/

@@ -1,0 +1,8 @@
+
+Kim et al. 2019 POC — Go-NoGo Results Summary
+==============================================
+Lambda (λ):               1.00000  (1/λ ≈ 1)
+
+NEST accuracy (approx):   100%  (5/5 Go, 5/5 NoGo correct)
+NEST Go    spikes (trial 1): 6779
+NEST NoGo  spikes (trial 1): 0
