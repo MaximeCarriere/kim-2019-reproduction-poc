@@ -26,7 +26,7 @@ A 50 ms input pulse is delivered at t = 100–150 ms.
 
 **Panel A — Rate RNN output traces (Fig 1B analogue)**
 After 1200 BPTT steps with Dale's principle, the rate RNN reaches 100% accuracy.
-Go trials (green) sustain a high output after the pulse; NoGo trials (gray) remain near zero.
+Go trials (green) sustain a high output after the pulse; NoGo trials (lighter) remain near zero.
 The network uses N=250 neurons (200E + 50I), sparse connectivity (p=0.2), and τ_d = 35 ms.
 
 **Panel B — Python LIF output traces (Fig 2B analogue)**
